@@ -516,7 +516,7 @@
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 mix category-1" data-myorder="4">
                                 <div class="work-item">
-                                    <div class="items"><img alt="" class="" src="images/work/foodybuddy.png"></div>
+                                    <div class="items"><img alt="" class="" src="images/work/foodybuddy.jpg"></div>
                                     <div class="mask2">
                                         <a href="#">
                                         <h4>FoodyBuddy</h4></a> <a href="#">
@@ -570,7 +570,7 @@
                 <!-- col-lg-6 -->
                 <div class="col-lg-4 col-sm-4 col-xs-12">
                     <div class="blog-thumb_1">
-                        <div class="blog-thumb-img"><img alt="post" src="images/blog/b2.png">
+                        <div class="blog-thumb-img"><img alt="post" src="images/blog/b2.jpg">
                         </div>
                         <!--/ blog thumb-->
                         <div class="blog-warp">
