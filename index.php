@@ -7,9 +7,6 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Resumi Multipage Landing Page" />
-    <meta name="keywords" content="Resumi, parallax, one page, multipage, responsive, landing, html template" />
-    <meta name="author" content="BlackGallery">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Favicons -->
