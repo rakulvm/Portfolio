@@ -49,7 +49,7 @@
 
 </head>
 
-<body>
+<body onLoad="disableClick()>
 
 <!-- Start: Preloader section
 ==========================--> 
@@ -709,6 +709,18 @@
 
     <!-- Scripts
 ========================================-->
+					   
+    <!--rightclick disable-->
+	<script>
+      function disableClick(){
+        document.onclick=function(event){
+          if (event.button == 2) {
+            alert('Right Click Message');
+            return false;
+          }
+        }
+      }
+    </script>
     <!-- jquery -->
     <script src="js/vendor/jquery-1.12.4.min.js" type="text/javascript"></script>
     <!-- Modernizer -->
